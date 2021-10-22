@@ -1,0 +1,14 @@
+{
+  "name": "findillustration",
+  "version": "1.0.0",
+  "description": "Figma plugin to find illustrations",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.36.0"
+  }
+}
